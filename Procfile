@@ -1,0 +1,1 @@
+Worker: node JMusicBot-0.3.8.jar
